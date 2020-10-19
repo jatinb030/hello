@@ -1,2 +1,3 @@
 # hello test
-This is my first time git
+This is my first time git.
+I am in high school.
