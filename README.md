@@ -1,2 +1,2 @@
 # hello test
-This is my first time git
+This is my first time with learning git.
