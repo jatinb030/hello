@@ -1,2 +1,2 @@
 # hello
-**I am learnig git.**
+**I am learning git.**
